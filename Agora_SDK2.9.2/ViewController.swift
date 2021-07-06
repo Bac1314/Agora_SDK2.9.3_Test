@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         
         
         // TEST audio mixing
-        let filePath = "https://firebasestorage.googleapis.com/v0/b/enlil-development.appspot.com/o/event%2Fmenuettm.mp3?alt=media"
+        let filePath = ""
         let loopback = false
         let replace = false
         let cycle = 1
