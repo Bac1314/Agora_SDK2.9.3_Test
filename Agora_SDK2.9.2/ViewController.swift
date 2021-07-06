@@ -14,7 +14,7 @@ class ViewController: UIViewController {
  
     @IBOutlet weak var remoteView: UIView!
     @IBOutlet weak var localView: UIView!
-    var appId: String = "d5af82b4b85e4838b2caec2a84e71cf3"
+    var appId: String = ""
     var channelName: String = "Agora_Test"
     
     var agoraKit: AgoraRtcEngineKit?
